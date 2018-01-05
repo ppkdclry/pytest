@@ -1,4 +1,7 @@
 ﻿#!/usr/bin/python
-#coding=UTF-8
-print "hello,world!";
-print "你好，世界！";
+#coding=utf-8
+print ("hello,world!");
+x='你好，世界！';
+print(x);
+print(repr(x));
+print(type(x));
